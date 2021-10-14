@@ -1,7 +1,8 @@
 - Hi, I’m @Range18
 - I’m interested in developing websites and programming on c++.
 - I’m currently learning c++, html,css,js.
-- I’m looking to collaborate on learning programming.
+- I’m looking to collaborate on learning programming or something else
+- You can text me
 
 
 <!---
