@@ -1,6 +1,6 @@
 - Hi, I’m @Range18
 - I’m interested in developing and programming on c++.
-- I’m currently learning c++.
+- I’m keen on developing Games and Desktop apps
 - I’m looking to collaborate on learning programming or something else
 - You can text me
 
