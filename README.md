@@ -1,7 +1,6 @@
-- Hi, I’m @Range18
-- I’m interested in developing on c++.
-- I’m keen on developing Games and Desktop apps
-- I’m looking to collaborate on learning programming or something else
+- Hi, I’m young developer from Yekaterinburg. Creating apps and developing games is my aim for my study. I have already tried C++ coding and I want too learn more languages and frameworks.
+
+
 
 
 <!---
