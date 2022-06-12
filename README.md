@@ -1,4 +1,4 @@
-- Hi, I’m young developer from Yekaterinburg. Creating apps and developing games is my aim for my study. I have already tried C++ coding and I want too learn more languages and frameworks.
+- Hi, I’m young developer from Yekaterinburg. Creating apps and developing games is my aim for my study. I have already tried C++ coding a little and I want too learn more languages and frameworks. 
 
 
 
