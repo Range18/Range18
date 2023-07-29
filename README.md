@@ -1,9 +1,3 @@
-- Hi, I’m young developer from Yekaterinburg. Creating apps and developing games is my aim for my study. I have already tried C++ coding a little and I want too learn more languages and frameworks. 
-
-
-
-
-<!---
-Range18/Range18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Range`s Profile
+* #### I\`m Range also as known as Arslan and I\`m interested in programming apps and websites
+* #### Now, I`m learning Javascript/Typescript
